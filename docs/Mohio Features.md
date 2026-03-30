@@ -4,6 +4,8 @@
 
 Update this document whenever a user-visible capability is added, removed, renamed, split, merged, or meaningfully re-scoped.
 
+This is my updated
+
 ## Purpose
 
 Mohio is a local-first knowledge workspace for small teams. It combines fast note capture, structured shared documentation, and bring-your-own AI-assisted editing that works with Codex and Claude Code while keeping content portable as plain Markdown in a Git-backed workspace.
