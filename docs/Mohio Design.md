@@ -1,6 +1,6 @@
 # Mohio Design
 
-` the stable design-system and interface-direction document for Mohio.
+ the stable design-system and interface-direction document for Mohio.
 
 Update this document when the product's visual system, interaction principles, component rules, or core layout model change. Minor implementation tweaks should not require edits here.
 
