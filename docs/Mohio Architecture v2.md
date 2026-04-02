@@ -1,6 +1,6 @@
 # Mohio Architecture v2
 
-`ARCHITECTURE.md` is the living engineering and technical-direction document for Mohio.
+ARCHITECTURE.md is the living engineering and technical-direction document for Mohio.
 
 Update this document whenever the plat form direction, major stack choices, document model, editor architecture, storage model, or other engineering constraints change.
 
