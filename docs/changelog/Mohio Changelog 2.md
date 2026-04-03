@@ -2,9 +2,9 @@
 
 This folder contains the detailed change history for Mohio.
 
-Every software change must be recorded here in its own Markdown file.
+Every software change must be `recorded` here in its ~~own~~ Markdown file.
 
-Lorem ipsum. Doler imut
+> Lorem ipsum. Doler imut
 
 ## Filename Format
 
