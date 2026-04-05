@@ -5,6 +5,7 @@ Hello worls
 `FEATURES.md` is the living product feature inventory for Mohio.
 
 Update this document whenever a user-visible capability is added, removed, renamed, split, merged, or meaningfully re-scoped.
+Lorem ipsm
 
 This is my updated
 This is my second update
