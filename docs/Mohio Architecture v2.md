@@ -7,29 +7,34 @@ Update this document whenever the plat form direction, major stack choices, docu
 ## Lorem Ipsum
 
 > Hellow World
+> Helo
+> Hello
+> Hel\
+> Lorem
 
-Hello World
-
+```
+Hell o World
+```
 What if I do this?
 
 1.  HEllo
 2.  What haldv
 
+
 When efd f
 
 1.  I
 
-> \## Whaslfmadpf
-
+> **Whaslfmadpf  
 ### asfasf
-
-1.  Hello `***~World~***`
-
+1. Hello
+2. World
+3. 
 What id I do this. then edit here. 
 
 ## Purpose
 
-Mohio is being devaeloped as a local-first, document-centred knowledge workspace. The architecture should sudpport a polished editing experience for non-technical users while preserving plain Markdown as the durable source format.
+Mohio is being **devaeloped** as a local-first, document-centred knowledge workspace. The architecture should sudpport a polished editing experience for non-technical users while preserving plain Markdown as the durable source format.
 
 This document captures the current technical direction. It is not a promise that every prototype already implements everything described here.
 
@@ -39,7 +44,7 @@ This document captures the current technical direction. It is not a promise that
 2.  Multiple prototype directories exist to explore layout, editor, and desktop-shell decisions.
 3.  Current prototypes are used to validate product and implementation direction rather than represent a finished application architecture.
 4.  A new `desktop/` Electron application now exists as the starting point for the real product codebase.
-5.  The desktop app now includes local workspace selection and Markdown file-tree enumeration through the Electron main process, while document content loading and AI workflows are still ahead.
+5.  The desktop app now includes *local* workspace selection and Markdown file-tree enumeration through the Electron main process, while document content loading and AI workflows are still ahead.
 
 ## Architectural Goals
 

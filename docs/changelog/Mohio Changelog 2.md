@@ -3,10 +3,15 @@
 This folder contains the detailed change history for Mohio.
 
 Every software change must be `recorded` here in its ~~own~~ Markdown file.
+> Lorem Ipsum
+> Lorem 
+> This
 
-> Lorem ipsum. Doler imut
-> Lotem
-> Ipsm
+
+
+
+
+
 
 ## Filename Format
 hello
@@ -19,6 +24,7 @@ Examples:
 - `20260319_add-changelog-process.md`
 - `20260319_switch-desktop-shell-to-electron.md`
 - `20260320_add-checkpoint-history-panel.md`
+
 
 ## Required Contents
 
@@ -52,7 +58,8 @@ Describe any user-facing, design, or engineering consequences.
 
 ## Rules
 
-- Create the changelog entry in the same PR as the software change.
-- Do not batch unrelated changes into one file.
+- Create the *changelog* entry in the same PR as the software change.
+- Do not batch unrelated **changes** into one `file`.
 - Prefer specific descriptions over vague summaries.
 - If the same area changes multiple times, create multiple entries.
+- 
