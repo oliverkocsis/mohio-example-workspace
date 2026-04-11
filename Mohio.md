@@ -1,5 +1,7 @@
 # Mohio
 
+Let me chnage this
+
 Mohio is an open source knowledge workspace for small teams. It combines fast note capture, structured team documentation, and bring-your-own AI assistance that works with Codex and Claude Code while keeping content stored as plain Markdown in a Git-backed workspace.
 The goal is simple: make team knowledge easy to capture, refine, and share without forcing every contributor to think in Git, file structures, or documentation bureaucracy.
 What if I change this here?
