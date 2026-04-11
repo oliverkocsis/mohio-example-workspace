@@ -1,6 +1,7 @@
 # Add workspace folder selection and Markdown tree browsing
 
-## Why
+change
+## Why 
 Mohio's **desktop** app had only a static shell, so the core local-first workflow could not begin. Users could not open a *folder*, see which workspace was active, or browse Markdown files from the actual filesystem.
 What if I change this. Or this. I chagne this. Hellow 
 What happens with this lorem ipsum, lorem ipsum
